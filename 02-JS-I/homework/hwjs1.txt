@@ -1,0 +1,8 @@
+variable: es una caja a la que le asigno un nombre y en donde guardo cosas que pueden variar.
+string: es una cadena de caracteres. Puede ser una palabra "Hola", un número "1"
+función: es como una procesadora en donde pongo verduras y me devuelve un pure. En js doy una indicación para que me devuelva una acción.
+Declaraciones if: son condiciones que se da al sistema para que corra una acción
+if (condición) {
+    lee lo que está acá
+}
+valores booleanos: es verdadero o falso. El sistema identifica un dato como verdadero o falso  dea cuerdo a las indicaciones que uno le da.
